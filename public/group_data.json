@@ -1,0 +1,566 @@
+[
+  {
+    "day": "monday",
+    "data": [
+      {
+        "color": "green",
+        "start": "13:55",
+        "end": "15:30",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Архитектура",
+        "teacher": "доц. Платонова Р.М.",
+        "image": "platonova",
+        "place": "450к11"
+      },
+      {
+        "color": "green",
+        "start": "13:55",
+        "end": "15:30",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Механизация и автоматизация в строительстве",
+        "teacher": "доц. Снежков Д.Ю.",
+        "image": "snegkov",
+        "place": "450к11"
+      },
+      {
+        "color": "yellow",
+        "start": "15:40",
+        "end": "17:15",
+        "week": [
+          1,
+          2
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Архитектура",
+        "teacher": "ст.пр. Шиян О.В.",
+        "image": "shiyan",
+        "place": " 18к1"
+      },
+      {
+        "color": "yellow",
+        "start": "17:45",
+        "end": "19:20",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Водоснабжение и водоответедение",
+        "teacher": "Пропольский Д.Э.",
+        "image":"propolski",
+        "place": "18к1"
+      },
+      {
+        "color": "yellow",
+        "start": "17:45",
+        "end": "19:20",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Философия",
+        "teacher": "ст.пр Волнистый А.Г.",
+        "image":"volnisitiy",
+        "place": "18к1"
+      }
+    ]
+  },
+  {
+    "day": "tuesday",
+    "data": [
+      {
+        "color": "yellow",
+        "start": "12:00",
+        "end": "13:35",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Физ-ра",
+        "teacher": "ст.пр.Кончик Н.А. ст.пр.Асмакович Ж.И. Бурков С.О.",
+        "place": null
+      },
+      {
+        "color": "green",
+        "start": "13:55",
+        "end": "15:30",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Экономика Строительства",
+        "teacher": "ст.пр. Сосновская У.В.",
+        "image":"sosnovkaya",
+        "place": "439к1"
+      },
+      {
+        "color": "green",
+        "start": "15:40",
+        "end": "17:15",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Защита населения и объектов от чрезвычайных ситуаций",
+        "teacher": "доц. Шипица Д.И.",
+        "image":"shipica",
+        "place": "439к1"
+      },
+      {
+        "color": "yellow",
+        "start": "17:45",
+        "end": "19:20",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Информационный час",
+        "teacher": "ст.пр Кулыгина О.А.",
+        "place": "437к1"
+      },
+      {
+        "color": "yellow",
+        "start": "17:45",
+        "end": "19:20",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Теплоснабжение и вентиляция",
+        "teacher": "Золотарёва И.М.",
+        "place": "437к1"
+      },
+      {
+        "color": "yellow",
+        "start": "19:30",
+        "end": "21:05",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Информационный час",
+        "teacher": "ст.пр Кулыгина О.А.",
+        "place": "437к1"
+      }
+    ]
+  },
+  {
+    "day": "wednesday",
+    "data": [
+      
+      {
+        "color": "green",
+        "start": "13:55",
+        "end": "15:30",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Сопротивление Материалов",
+        "teacher": "доц. Вербицкая О.Л.",
+        "image":"rizkov",
+        "place": "450к1"
+      },{
+        "color": "yellow",
+        "start": "15:40",
+        "end": "17:15",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Сопротивление Материалов",
+        "teacher": "доц. Вербицкая О.Л.",
+        "image":"rizkov",
+        "place": "402к1"
+      },{
+        "color": "red",
+        "start": "17:45",
+        "end": "19:20",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Электротехника",
+        "teacher": "Михальцевич В.А.",
+        "image":"rizkov",
+        "place": "208к2"
+      },{
+        "color": "red",
+        "start": "17:45",
+        "end": "19:20",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Электротехника",
+        "teacher": "Михальцевич В.А.",
+        "image":"rizkov",
+        "place": "208к2"
+      },{
+        "color": "red",
+        "start": "17:45",
+        "end": "19:20",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "ЗНиОоЧС",
+        "teacher": "Шипица Д.И.",
+        "image":"rizkov",
+        "place": "603к16"
+      },{
+        "color": "red",
+        "start": "17:45",
+        "end": "19:20",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "ЗНиОоЧС",
+        "teacher": "Шипица Д.И.",
+        "image":"rizkov",
+        "place": "603к16"
+      }
+    ]
+  },
+  {
+    "day": "thursday",
+    "data": [
+      {
+        "color": "yellow",
+        "start": "12:00",
+        "end": "13:35",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Экономика Строительства",
+        "teacher": "Нгуен Н.Н.",
+        "image":"hvitko-kristina",
+        "place": "905к17"
+      },{
+        "color": "yellow",
+        "start": "12:00",
+        "end": "13:35",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Экономика Строительства",
+        "teacher": "Нгуен Н.Н.",
+        "image":"hvitko-kristina",
+        "place": "905к17"
+      },{
+        "color": "green",
+        "start": "13:55",
+        "end": "15:30",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Электротехника",
+        "teacher": "ст.пр. Новикова Л.И.",
+        "image":"hvitko-kristina",
+        "place": "а439к1"
+      },{
+        "color": "green",
+        "start": "13:55",
+        "end": "15:30",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Теплоснабжение и вентиляция",
+        "teacher": "ст.пр. Золотарева И.М.",
+        "image":"hvitko-kristina",
+        "place": "а439к1"
+      },{
+        "color": "green",
+        "start": "15:40",
+        "end": "17:15",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Механизация и автоматизация в строительстве",
+        "teacher": "проф. Вавилов А.В. ст.пр Руднев А.",
+        "image":"Zajceva-Nadezhda-Viktorovna",
+        "place": "а439к1"
+      },
+      {
+        "color": "red",
+        "start": "17:45",
+        "end": "19:20",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Механизация и автоматизация в строительстве",
+        "teacher": "Лапицкий М.О.",
+        "image":"streluhin",
+        "place": "318к16"
+      },
+      {
+        "color": "red",
+        "start": "17:45",
+        "end": "19:20",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Механизация и автоматизация в строительстве",
+        "teacher": "Лапицкий М.О.",
+        "image":"streluhin",
+        "place": "318к16"
+      },
+      {
+        "color": "red",
+        "start": "17:45",
+        "end": "21:05",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Механизация и автоматизация в строительстве",
+        "teacher": "доц. Снежков Д.Ю.",
+        "image":"streluhin",
+        "place": "210к16"
+      },
+      {
+        "color": "red",
+        "start": "17:45",
+        "end": "21:05",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Механизация и автоматизация в строительстве",
+        "teacher": "доц. Снежков Д.Ю.",
+        "image":"streluhin",
+        "place": "210к16"
+      }
+    ]
+  },
+  {
+    "day": "friday",
+    "data": [
+      {
+        "color": "yellow",
+        "start": "12:00",
+        "end": "13:35",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Физ-ра",
+        "teacher": "ст.пр.Кончик Н.А. ст.пр.Асмакович Ж.И. Бурков С.О.",
+        "place": null
+      },{
+        "color": "yellow",
+        "start": "13:55",
+        "end": "15:30",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Архитектура",
+        "teacher": "доц. Платонова Р.М.",
+        "image":"nguen-thi-thu-ngan",
+        "place": "450к1"
+      },{
+        "color": "red",
+        "start": "15:40",
+        "end": "19:20",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Экономика Строительства",
+        "teacher": "Нгуен Н.Н.",
+        "image":"verbitskaya",
+        "place": "905к17"
+      },{
+        "color": "red",
+        "start": "15:40",
+        "end": "19:20",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Экономика Строительства",
+        "teacher": "Нгуен Н.Н.",
+        "image":"verbitskaya",
+        "place": "905к17"
+      },{
+        "color": "red",
+        "start": "15:40",
+        "end": "17:15",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Теплоснабжение и вентиляция",
+        "teacher": "Золотарёва И.М.",
+        "image":"verbitskaya",
+        "place": "14к1"
+      },{
+        "color": "red",
+        "start": "17:45",
+        "end": "19:20",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Сопротивление Материалов",
+        "teacher": "доц. Вербицкая О.Л.",
+        "image":"verbitskaya",
+        "place": "106к1"
+      },{
+        "color": "red",
+        "start": "15:40",
+        "end": "17:15",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Теплоснабжение и вентиляция",
+        "teacher": "Золотарёва И.М.",
+        "image":"verbitskaya",
+        "place": "14к1"
+      },{
+        "color": "red",
+        "start": "17:45",
+        "end": "19:20",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Сопротивление Материалов",
+        "teacher": "доц. Вербицкая О.Л.",
+        "image":"verbitskaya",
+        "place": "106к1"
+      }
+    ]
+  },
+  {
+    "day": "saturday",
+    "data": [
+      {
+        "color": "green",
+        "start": "08:00",
+        "end": "09:40",
+        "week": [
+          1,
+          2
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Философия",
+        "teacher": "ст.пр Волнистый А.Г.",
+        "image":"platonova-raisa",
+        "place": "а4Пк8"
+      },
+      {
+        "color": "green",
+        "start": "09:55",
+        "end": "13:35",
+        "week": [
+          1,
+          2
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Водоснабжение и водоответедение",
+        "teacher": "ст.пр. Лемеш М.И.",
+        "image":"verbitskaya",
+        "place": "а4Пк8"
+      }
+    ]
+  },
+  {
+    "day": "sunday",
+    "data": []
+  }
+]
